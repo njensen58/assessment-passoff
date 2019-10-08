@@ -1,0 +1,45 @@
+{
+  "module0": {
+    "assignments": {
+      "fundamental": [
+        "Silly CIA part 2",
+        "Color Grid from Scratch",
+        "CSS Flags",
+        "If Statement Olympics"
+      ],
+      "medium": [
+        "If Statement Olympics",
+        "Loops and Arrays Practice",
+        "Functions Exercise",
+        "Daily Planet Editor"
+      ],
+      "hard": [
+        "DJ JS"
+      ]
+    },
+    "questions": {
+      "fundamental": [
+        "What are the 5 main Data types?",
+        "What is the DOM"
+      ],
+      "medium": [
+        "What is a Method?"
+      ],
+      "hard": [
+        "What does document.getElementsByClassName() return?"
+      ]
+    },
+    "showMe": {
+      "fundamental": [
+        "Create an object with one of each data type and one method."
+      ],
+      "medium": [
+        "Create a for loop that console logs the numbers 10 - 1 in that order.",
+        "Write a function that takes 2 numbers as arguments and returns their sum."
+      ],
+      "hard": [
+        "Create an array of strings, then write a for loop that loops over that array and console logs each string."
+      ]
+    }
+  }
+}

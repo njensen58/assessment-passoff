@@ -1,0 +1,46 @@
+{
+  "module2": {
+    "assignments": {
+      "fundamental": [
+        "Business Time",
+        "Responsive Color Grid from Scratch"
+      ],
+      "medium": [
+        "Node Calculator",
+        "Problem Solving Practice"
+      ],
+      "hard": [
+        "Escape Room",
+        "Caeser Cipher"
+      ]
+    },
+    "questions": {
+      "fundamental": [
+        "What is the order of the CSS box model?",
+        "What are media queries used for?"
+      ],
+      "medium": [
+        "Which data types are mutable and which are immutable?",
+        "What is immutability?",
+        "What CSS setting would I use to declare an element to be a grid or flex container?"
+      ],
+      "hard": [
+        "What are constructor functions?",
+        "What is the difference between ES6 spread and rest?",
+        "What is the default flex direction of a flexbox?",
+        "Which css grid setting allows you to create grid columns?"
+      ]
+    },
+    "showMe": {
+      "fundamental": [
+        "Write a function that takes a string and returns it reversed."
+      ],
+      "medium": [
+        "Convert a function declaration into an ES6 arrow function, (must provide function)."
+      ],
+      "hard": [
+        "Create a constructor function that takes at least 3 properties. Then instantiate it twice."
+      ]
+    }
+  }
+}
